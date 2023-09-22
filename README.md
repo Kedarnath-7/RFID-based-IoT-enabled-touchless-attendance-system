@@ -27,7 +27,7 @@ Follow these steps to set up the system on your Raspberry Pi:
 5. Run the application.
 
 ## Contributors
-Karthikeya Sriram Chunchu
-Vishwanath Bolledulla
-Maneesh Kumar C
-Saideep Gummadavelli
+Karthikeya Sriram Chunchu, 
+Vishwanath Bolledulla, 
+Maneesh Kumar C, 
+Saideep Gummadavelli, 
